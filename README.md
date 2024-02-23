@@ -1,5 +1,6 @@
 
-Introducing our N-Queens Visualizer project – an engaging blend of HTML, CSS, and JavaScript! 👑🎮 Immerse yourself in the world of chess strategy as you visualize the solution to the classic N-Queens problem in a captivating and intuitive interface.
+Introducing our N-Queens Visualizer – a captivating project crafted with HTML, CSS, and JavaScript! 🧡👑 Explore the classic chess problem in a visual, user-friendly interface. Place queens on the board, and watch the algorithm dynamically solve the N-Queens puzzle, ensuring no queen threatens another. A simple yet engaging way to appreciate the beauty of chess strategy! ♛🌐 #HTML #CSS #JavaScript #Chess #Visualizer 🕹️🖥️
+
 
 How it works:
 
